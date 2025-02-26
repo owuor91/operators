@@ -1,7 +1,6 @@
 fun main(){
-    var a =7
-    var b = 5
-    a= a % b
+    var a = 18
+    var b = 21
 
-    println(a)
+    println(a>=b)
 }
