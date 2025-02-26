@@ -3,8 +3,8 @@ fun main(){
     var num2 = 35
     var result = num1%num2
     println(result)
-    var a = 7
-    var b = 5
-    a=a% b
-    println(a)
+    var a = 18
+    var b = 21
+    println(a!=b)
 
+}
